@@ -1,0 +1,8 @@
+name: Hurricane
+main: ca.seenet.seecraft.hurricane.HurricanePlugin
+version: 1.0.0-dev
+
+commands:
+    jailradius:
+        description: Control the enforced radius.
+        usage: /<command> [set <radius>]
